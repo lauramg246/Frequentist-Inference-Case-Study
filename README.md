@@ -1,0 +1,2 @@
+# Frequentist Inference Case Study 
+
